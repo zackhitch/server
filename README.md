@@ -12,4 +12,6 @@ PORT=3300
 
 ## Running the Server
 
-To have the server automatically restart on changes to the code run it by typing `npm run server` or `yarn server`. The `start` script runs the server but will not automatically restart it when files change.
+To have the server automatically restart on changes to the code, run it using `npm run server` or `yarn server`.
+
+Typing `npm start` or `yarn start` runs the server, but will not automatically restart it when files change.
